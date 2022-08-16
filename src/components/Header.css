@@ -1,0 +1,15 @@
+.navbar.bg-light {
+    background-color: #dbdefe !important;
+    padding: 10px 5px;
+}
+.navbar-brand {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #5138ee;
+}
+.nav-link {
+    color: #222;
+}
+.main-title{
+    color:#5138ee;
+}
